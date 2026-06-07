@@ -1,10 +1,10 @@
-{{-- resources/views/guest/denah.blade.php - Refactored with Components --}}
+{{-- resources/views/guest/denah.blade.php - Using Unified CSS --}}
 @extends('layouts.guest')
 
 @section('title', 'Denah Pasar – Pasar Modern Sinpasa')
 
 @section('styles')
-@vite(['resources/css/denah.css'])
+@vite(['resources/css/denah-unified.css'])
 @endsection
 
 @section('content')
