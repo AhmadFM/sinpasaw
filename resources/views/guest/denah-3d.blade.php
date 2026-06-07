@@ -60,7 +60,7 @@
             }
         </script>
 
-        <!-- 3D Navigation Application -->
-        @vite(['resources/js/denah-3d.js'])
+        <!-- 3D Navigation Application - Refactored -->
+        @vite(['resources/js/denah-3d-refactored.js'])
     </body>
 </html>
